@@ -1,6 +1,6 @@
 # odin-recipes
 
-Practicing basic HTML 
+Practicing basic HTML. 
 I probably don't need this but why not?
 
 ## Assignment
